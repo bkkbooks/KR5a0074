@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5a0074/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太上說九幽拔罪心印妙經爾時元始天尊坐七寶殿放大光明遍照三千大千世界觀見衆生受諸苦惱沉淪生死受報無窮於是救苦真人即從座起瞻仰尊顔長跪問曰是諸衆生以何因緣飄蕩苦海沉沒無邊天尊告曰如是衆生受諸惡業皆由自心妄想顛倒不悟無為一切罪根皆從心起天堂快樂自由心生三界沉淪亦從心起心生邪見妄起貪嗔心生惑亂存念非真心懷殺害受諸類身心生諂曲與道無因心生虛寂與道相親重宣此義而說偈曰大道澄廓元理幽深先天而生運化古今道無形體澄濾身心不貪不欲不嗔不淫是非莫識表裹思尋身心清淨煩惱不侵無起無滅冥漠難斟湛然空寂了心無心自然合道衆聖來欽升朝金闕遊玩騫林七祖解脫永離幽隂皆契心印悟道合真念念相繼勿起塵心是時受苦衆生聞說妙經咸皆解脫衆真作禮悉大歡喜稱揚讃歎依教奉行太上說九幽拔罪心印妙經終
+  hash: sha256:298b473b28a67dfd02b44871c52020db03893e412a550ade4969c109c153228d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0074_HFL_000-001a, image: hfl/0032/0032-110.png}
+metadata:
+  title: 太上說九幽拔罪心印妙經
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:35:39.038879'
+  source:
+    repository: kanripo
+    path: KR5a0074/KR5a0074_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:0a567b2913929767665d776d4f983fcaad9e9e314f1e6acc946a807313a93185

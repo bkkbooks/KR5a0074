@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0074/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0074/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上說九幽拔罪心印妙經
+  date: '2015-08-28 23:35:39.038879'
+  source:
+    repository: kanripo
+    path: KR5a0074
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0074_000-ZTDZ.yaml, hash: 'sha256:5302e838d4a051482de13ca7738889c921f358b824967c10fd77ac942ad99ca6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0074_000-ZTDZ.markers.yaml, hash: 'sha256:7bfda2bdb6715e0a8a82b026e157e248254c1a33426c66352e36155e393dbe3e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0074_SJB_000-020042a
+    span:
+    - body
+    - 0
+    - 325
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:8d8f0a0ee2f561196dfeb24ce4c1d8afe88e7848043777ec7573d43de771d3ea
